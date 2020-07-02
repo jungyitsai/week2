@@ -1,3 +1,66 @@
 #main {
     margin-top: 20px;
 }
+
+#add_cart_btn {
+    text-align: center;
+    font-weight: bold;
+    cursor:pointer;
+}
+
+#add_cart_btn:hover {
+    background-color: lightblue;
+}
+
+#add_cart_btn:active{
+    border-style: solid;
+    border: mediumslateblue;
+}
+
+#trace_icon {
+    color: white;
+    position: absolute;
+    left: 2px;
+}
+
+
+#viewer_num {
+    color: rgb(83, 230, 25);
+    position: absolute;
+    right: 2px;
+}
+
+#product_section {
+    margin-top: 10px;
+}
+
+#product_abstract {
+    padding-top: 8px;
+    padding-left: 8px;
+}
+
+#origin_price {
+    text-decoration: line-through;
+}
+
+#price {
+    position: absolute;
+    right: 15px;
+}
+
+#product_category {
+    font-size: medium;
+}
+
+#banner_section img {
+    height: 250px;
+}
+
+#pagenum_section {
+    margin-top: 10px;
+}
+
+#footer_section {
+    background-color: beige;
+}
+
