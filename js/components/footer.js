@@ -11,8 +11,8 @@ export default{
 
         let template = `
         <div class="col text-center">
-            <div class="footer-copyright text-center py-3">公司網址:
-                <a href="${this.data.company_web_site}"> ${this.data.company_web_site} </a>
+            <div class="footer-copyright text-center py-3">
+                圖片來源 Unsplash ，無商業用途，僅供學習使用
             </div>
         </div>        
         `;
